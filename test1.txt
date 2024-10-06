@@ -2,3 +2,4 @@ my name is monir.
 I born 1998
 I complete my SSC 2014
 I complete my Diploma 2018
+I have started my full stack web development 2018
